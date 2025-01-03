@@ -90,6 +90,6 @@ The models were evaluated using the following metrics:
 ---
 ## Future Enhancements
 
-- **Incorporate advanced deep learning architectures such as Transformer models for enhanced sequential analysis.
-- **Use streaming platforms like Kafka for real-time data ingestion and analysis.
-- **Optimize autoencoder thresholds for more robust anomaly detection.
+- Incorporate advanced deep learning architectures such as Transformer models for enhanced sequential analysis.
+- Use streaming platforms like Kafka for real-time data ingestion and analysis.
+- Optimize autoencoder thresholds for more robust anomaly detection.
